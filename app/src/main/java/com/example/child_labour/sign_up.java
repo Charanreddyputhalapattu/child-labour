@@ -1,14 +1,14 @@
 package com.example.child_labour;
 
-import android.os.Bundle;
-
 import androidx.appcompat.app.AppCompatActivity;
 
-public class popup extends AppCompatActivity {
+import android.os.Bundle;
+
+public class sign_up extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.popup);
+        setContentView(R.layout.activity_sign_up);
     }
 }

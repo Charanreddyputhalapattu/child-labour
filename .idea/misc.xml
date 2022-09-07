@@ -4,6 +4,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/chara/AndroidStudioProjects/Child_labour/app/src/main/res/drawable/btn_corner.xml" value="0.153" />
+        <entry key="..\:/Users/chara/AndroidStudioProjects/Child_labour/app/src/main/res/drawable/button.xml" value="0.153" />
+        <entry key="..\:/Users/chara/AndroidStudioProjects/Child_labour/app/src/main/res/drawable/edittext.xml" value="0.153" />
         <entry key="..\:/Users/chara/AndroidStudioProjects/Child_labour/app/src/main/res/drawable/sign_bg.xml" value="0.153" />
         <entry key="..\:/Users/chara/AndroidStudioProjects/Child_labour/app/src/main/res/drawable/sign_corner.xml" value="0.153" />
         <entry key="..\:/Users/chara/AndroidStudioProjects/Child_labour/app/src/main/res/drawable/sign_corner2.xml" value="0.153" />
@@ -11,7 +13,9 @@
         <entry key="..\:/Users/chara/AndroidStudioProjects/Child_labour/app/src/main/res/drawable/testi.xml" value="0.13" />
         <entry key="..\:/Users/chara/AndroidStudioProjects/Child_labour/app/src/main/res/layout/activity_main.xml" value="0.24947916666666667" />
         <entry key="..\:/Users/chara/AndroidStudioProjects/Child_labour/app/src/main/res/layout/activity_sign.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/chara/AndroidStudioProjects/Child_labour/app/src/main/res/layout/activity_sing_up.xml" value="0.24947916666666667" />
         <entry key="..\:/Users/chara/AndroidStudioProjects/Child_labour/app/src/main/res/layout/button.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/chara/AndroidStudioProjects/Child_labour/app/src/main/res/layout/location.xml" value="0.24947916666666667" />
         <entry key="..\:/Users/chara/AndroidStudioProjects/Child_labour/app/src/main/res/layout/popup.xml" value="0.2484375" />
         <entry key="..\:/Users/chara/AndroidStudioProjects/Child_labour/app/src/main/res/layout/sign_in.xml" value="0.2484375" />
         <entry key="..\:/Users/chara/AndroidStudioProjects/Child_labour/app/src/main/res/layout/testing.xml" value="0.24947916666666667" />

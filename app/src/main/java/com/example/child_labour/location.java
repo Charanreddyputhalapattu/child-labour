@@ -22,7 +22,7 @@ public class location extends AppCompatActivity {
     public void ShowPopup(View v) {
         Button close;
 
-        myDialog.setContentView(R.layout.sign_in);
+        myDialog.setContentView(R.layout.popup);
         close = (Button) myDialog.findViewById(R.id.close);
 
 
